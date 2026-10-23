@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Planner — Automated Priority Engine",
+  "description": "An adaptive study-prioritization tool that calculates exam urgency, student weakness, topic weightage, and completion to recommend what students should study first.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
